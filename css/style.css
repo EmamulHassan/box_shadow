@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+.box1{
+	border: 5px solid;
+	min-height: 100px;
+	box-shadow: 5px 10px red;
+}
+.box2{
+	border: 5px solid;
+	min-height: 100px;
+	margin-top: 30px;
+	box-shadow: 5px 10px #832584;	
+}
+.box3{
+	border: 5px solid;
+	min-height: 100px;
+	margin-top: 30px;
+	box-shadow: 20px 20px 10px green;	
+}
+.box4{
+	border: 5px solid;
+	min-height: 100px;
+	margin-top: 30px;
+	box-shadow: 20px 20px 50px 10px yellow inset;	
+}
